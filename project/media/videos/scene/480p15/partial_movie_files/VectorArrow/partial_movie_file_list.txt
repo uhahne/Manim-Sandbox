@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/3163782288_1755915042_1577535401.mp4'
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/2201830969_2108126680_3148873836.mp4'
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/2201830969_1461016125_2224736205.mp4'
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/2201830969_2243170427_1980528681.mp4'
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/2201830969_4098624154_200862089.mp4'
-file 'file:C:/Development/Manim-Sandbox/project/media/videos/scene/480p15/partial_movie_files/VectorArrow/2201830969_398514950_1222210018.mp4'
